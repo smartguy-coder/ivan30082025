@@ -6,3 +6,6 @@ new info
 - python -m venv env
 - .\env\Scripts\activate
 - python .\first_python_file.py
+
+## formatting
+- Ctrl-Alt-l
